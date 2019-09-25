@@ -1,0 +1,2 @@
+Question2:
+print  6
